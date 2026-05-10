@@ -236,6 +236,7 @@ Geographic and location-based services integration. Enables access to mapping da
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
