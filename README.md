@@ -235,6 +235,7 @@ Geographic and location-based services integration. Enables access to mapping da
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
+- [NotFair](https://github.com/nowork-studio/NotFair) ☁️ - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP for audits, keyword research, bid management, and creative analysis.
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
 
 ### 📊 <a name="monitoring"></a>Monitoring
