@@ -122,11 +122,10 @@ Integration with communication platforms for message management and channel oper
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) - 📇 ☁️ - An MCP server to Manage Google Tasks
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - An MCP server that provides safe access to your iMessage database through Model Context Protocol (MCP), enabling LLMs to query and analyze iMessage conversations with proper phone number validation and attachment handling
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - Slack workspace integration for channel management and messaging
-- [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky instance integration for querying and interaction
+- [keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky instance integration for querying and interaction
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - Integration with gmail and Google Calendar.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interact with Twitter search and timeline
-- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) 📇 ☁️ - X/Twitter data MCP server and REST API for search, extraction, monitoring, webhooks, and SDK setup
-- [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - An MCP server application that sends various types of messages to the WeCom group robot.
+- [gotoolkits/mcp-wecombot-server](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - An MCP server application that sends various types of messages to the WeCom group robot.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) - 🌐 ☁️ - A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
@@ -268,6 +267,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - Google News integration with automatic topic categorization, multi-language support, and comprehensive search capabilities including headlines, stories, and related topics through [SerpAPI](https://serpapi.com/).
 - [devflowinc/trieve](https://github.com/devflowinc/trieve/tree/main/clients/mcp-server) 🎖️📇☁️🏠 - Crawl, embed, chunk, search, and retrieve information from datasets through [Trieve](https://trieve.ai)
 - [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) 🐍 ☁️ - Web search using DuckDuckGo
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) 📇 ☁️ - Search and monitor public X data through a [remote MCP endpoint](https://xquik.com/.well-known/mcp.json), with REST, webhooks, and SDKs
 
 ### 🔒 <a name="security"></a>Security
 
