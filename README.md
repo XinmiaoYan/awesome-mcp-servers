@@ -212,6 +212,7 @@ Financial data access and cryptocurrency market information. Enables querying re
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - Coinmarket API integration to fetch cryptocurrency listings and quotes
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API integration to fetch both stock and crypto information
 - [ferdousbhai/tasty-agent] (https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API integration to handle trading activities on Tastytrade
+- [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) 📇 ☁️ 🏠 🍎 - Local stdio MCP payment tools for x402 offer inspection, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
